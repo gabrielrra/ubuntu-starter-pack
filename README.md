@@ -49,7 +49,9 @@ plugins={
 **PowerLevel10K** Theme
 
 > Works best with this Font (**Meslo**): https://github.com/romkatv/powerlevel10k#Fonts
+
 >Store the fonts at `~/.fonts`. Go to terminal settings and change the font (**Meslo**)
+
 >In VSCode add this line to `settings.json` and restart it: 
 
 ```json
@@ -79,6 +81,7 @@ Extensions:
 
  - Dracula (**NON OPTIONAL, MUST HAVE**)
  - Github Markdown Preview
+ - Gitlens
  - ESLint
  - Prettier
  - Rocketseat React Native
